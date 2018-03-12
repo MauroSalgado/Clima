@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El Clima</string>
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Lunes</string>
+    <string name="thursday">Lunes</string>
+    <string name="friday">Lunes</string>
+    <string name="saturday">Lunes</string>
+    <string name="sunday">Lunes</string>
+
+    <string name="sunny">Soleado</string>
+    <string name="mists">Brumas</string>
+    <string name="rain">Lluvia</string>
+    <string name="cloud">Nublado</string>
+    <string name="NO_INFO">SIN INFORMACION</string>
+</resources>
